@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tanwhee
+- 👋 Hi, I’m Tanvi Rahangdale
 - 👀 I’m interested in web development
-- 🌱 I’m currently DSA
+- 🌱 I’m currently learning DSA
 - 📫 Reach me at: rahangdaletanvi10@gmail.com 
 - 😄 Pronouns: She/her
 - ⚡ Fun fact about me: I like to sing
